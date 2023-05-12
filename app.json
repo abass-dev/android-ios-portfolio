@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "n-training",
-    "slug": "n-training",
+    "name": "abassdev.com",
+    "slug": "Abass Dev",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -12,9 +12,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
